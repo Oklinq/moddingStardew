@@ -1,0 +1,7 @@
+/item 645
+/item 645
+/item 645
+/tool Axe 1
+/tool Pick 1
+/money 10000
+/friendall 500

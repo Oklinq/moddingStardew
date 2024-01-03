@@ -1,0 +1,36 @@
+{
+    "Name": "Pear",
+    "Product": "Pear",
+    "SaplingName": "Pear Sapling",
+    "SaplingDescription": "Takes 28 days to produce a Pear tree. Harvest in the fall. Only grows if the 8 surrounding tiles are empty.",
+	"Season": "fall",
+	"SaplingPurchasePrice": 4000,
+	"SaplingNameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        "de": "Birnenbaum-Setzling",
+        //"fr": "",
+        //"hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "SaplingDescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        "de": "Wächst in 28 Tagen zu einem Birnenbaum heran. Trägt Früchte im Herbst. Wächst nur, wenn die 8 umliegenden Felder frei sind.",
+        //"fr": "",
+        //"hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        //"zh": "",
+    }
+}

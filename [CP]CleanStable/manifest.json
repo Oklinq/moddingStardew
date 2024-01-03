@@ -1,0 +1,13 @@
+{
+   "Name": "Clean Stable",
+   "Author": "Oklinq",
+   "Description": "by Oklinq",
+   "Version": "1.0.1",
+   "MinimumApiVersion": "3.15.1",
+   "UniqueID": "Oklinq.CleanStable",
+    "ContentPackFor": {
+    	"UniqueID": "Pathoschild.ContentPatcher",
+    	"MinimumVersion": "1.27.2"
+		},
+   "UpdateKeys": [ "Nexus:7397" ],
+}

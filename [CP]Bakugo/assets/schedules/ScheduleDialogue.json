@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Strings/schedules/Bakugo",
+            "Entries": {
+			"summer.000": "Ich habe gehört das du %favorite magst...$1#$b#Das wirst du hier nicht finden, ALSO GEH!$7"
+			"rain.000": "Hier drinnen ist es wenigstens warm$6",
+			}
+        }
+    ]
+}

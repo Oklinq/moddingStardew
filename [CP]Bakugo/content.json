@@ -1,0 +1,68 @@
+{
+  "Format": "1.10.0",
+  "Changes": [
+    {
+      "LogName": "NPC Manifestation",
+      "Action": "EditData",
+      "Target": "Data/NPCDispositions",
+      "FromFile": null,
+      "Entries": {
+        "Bakugo": "adult/rude/outgoing/negative/male/datable/null/Other/spring 20//BusStop 12 9 2/Bakugo"
+      }
+    },
+    {
+      "LogName": "NPC Gift Tastes",
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "FromFile": null,
+      "Entries": {
+        "Bakugo": "Oh, für mich? Ich hab zwar nicht danach gefragt, aber danke.$5/800 75 76 77 288/Danke?$5/167 184/What the fuck./247 254/Shine!/-20/Wofür ist das? Wie unnötig, tch.../-81 "
+      }
+    },
+    {
+      "LogName": "NPC Sprite",
+      "Action": "Load",
+      "Target": "Characters/Bakugo",
+      "FromFile": "assets/img/spritesheet.png",
+      "Entries": null
+    },
+    {
+      "LogName": "NPC Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Bakugo",
+      "FromFile": "assets/img/portrait.png",
+      "Entries": null
+    },
+    {
+      "LogName": "Schedule",
+      "Action": "Load",
+      "Target": "Characters/schedules/Bakugo",
+      "FromFile": "assets/schedules/Schedule.json",
+      "Entries": null
+    },
+    {
+      "LogName": "Dialogue",
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Bakugo",
+      "FromFile": "assets/dialogue/Dialogue.json",
+      "Entries": null
+    },
+    {
+      "LogName": "Engagement Dialogue",
+      "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "FromFile": null,
+      "Entries": {
+        "Bakugo0": "I am so happy!$1",
+        "Bakugo1": "I'm so nervous for tomorrow.$4"
+      }
+    },
+    {
+      "LogName": "Marriage Dialogue",
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueBakugo",
+      "FromFile": "assets/dialogue/MarriageDialogue.json",
+      "Entries": null
+    }
+  ]
+}

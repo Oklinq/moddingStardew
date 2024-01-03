@@ -1,0 +1,13 @@
+{
+  "Name": "Bakogu Npc for Stardew valley 1.5",
+  "Author": "Oklinq",
+  "Description": "Bakogu Npc for Stardew valley 1.5",
+  "Version": "2.5.2",
+  "UniqueID": "Oklinq.Bakogu",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "UpdateKeys": [
+    "Nexus: "
+  ]
+}

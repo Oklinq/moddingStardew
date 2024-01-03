@@ -1,0 +1,11 @@
+{
+  "Format": "1.27.2",
+	
+  "Changes": [
+		{
+			"Action": "EditImage",
+			"Target": "Buildings/Stable",
+			"FromFile": "assets/img.png",
+		},
+    ]
+}

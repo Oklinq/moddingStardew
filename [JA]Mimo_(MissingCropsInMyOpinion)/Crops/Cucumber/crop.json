@@ -1,0 +1,52 @@
+{
+    "Name": "Cucumber",
+    "Product": "Cucumber",
+    "SeedName": "Cucumber seeds",
+    "SeedDescription": "plant in spring oder summer",
+    "Type": "Vegetable",
+	"Seasons": ["spring", "summer"],
+    "Phases": [ 1, 1, 1, 2, 1],
+    "RegrowthPhase": -1,
+    "HarvestWithScythe": false,
+    "TrellisCrop": false,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 3,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.0,
+    },
+
+   "SeedPurchasePrice": 80,
+   "SeedPurchaseRequirements": [
+	   "w sunny",
+],
+      "SeedNameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        "de": "Gurkensamen",
+		//"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    },
+	"SeedDescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        "de": "Im Frühling oder Sommer anpflanzen",
+		//"fr": "",
+        //"hu": "",
+        //"it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        //"tr": "",
+        //"zh": "",
+    }
+}

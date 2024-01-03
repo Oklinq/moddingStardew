@@ -1,0 +1,10 @@
+/ax
+/hoe
+/pick
+/can
+/tool Axe 4
+/tool Hoe 4
+/tool Pick 4
+/tool Can 4
+/weapon 29
+/speech Lewis 0Wow !, where did you get that cool stuff from @?$h

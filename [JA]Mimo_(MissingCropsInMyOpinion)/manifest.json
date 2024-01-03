@@ -1,0 +1,12 @@
+{
+   "Name": "Mimo",
+   "Author": "Oklinq",
+   "Description": "Missing crops in my opinion",
+   "Version": "1.5.0",
+   "MinimumApiVersion": "3.8.0",
+   "UniqueID": "Oklinq.Mimo",
+    "ContentPackFor": {
+      "UniqueID": "spacechase0.JsonAssets"
+    },
+   "UpdateKeys": [ "Nexus:7348" ],
+}

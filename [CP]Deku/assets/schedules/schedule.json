@@ -1,0 +1,14 @@
+{
+    "spring": "610 BusStop 16 19 2/700 Town 37 89 2/800 Beach 10 13 2/1430 Saloon 9 20 0/1750 Saloon 39 19 2 martini \"Strings\\schedules\\Hiroshi:spring.001\"/2100 Saloon 26 23 3/2350 BusStop 22 5 2 \"Strings\\schedules\\Hiroshi:spring.002\"",
+	"summer": "610 BusStop 22 5 2/800 Beach 10 13 2/1430 Saloon 9 20 0/1750 Saloon 39 19 2/2100 Saloon 26 23 3/2350 BusStop 22 5 2 \"Strings\\schedules\\Hiroshi:summer.002\"",
+	"fall": "600 BusStop 22 5 2/700 Town 37 89 2/1030 Beach 57 8 1/1430 Saloon 9 20 0/1750 Saloon 39 19 2/2100 Saloon 26 23 3/2350 BusStop 22 5 2",
+	"winter": "600 BusStop 22 5 2/700 Saloon 9 20 0/1430 Saloon 9 20 0/1750 Saloon 39 19 2/2100 Saloon 26 23 3/2350 BusStop 22 5 2",
+	"rain": "600 BusStop 22 5 2/700 Saloon 9 20 0/1430 Saloon 9 20 0/1750 Saloon 39 19 2/2100 Saloon 26 23 3/2350 BusStop 22 5 2",
+	"marriage_Mon": "930 BusStop 14 23 1/1000 Town 37 89 2/1750 Farm 66 15 2/1900 House 30 13 3",
+	"marriage_Tue": "930 BusStop 14 23 1/1000 Town 37 89 2/1750 Farm 66 15 2/1900 House 30 13 3",
+    "marriage_Wed": "930 BusStop 14 23 1/1000 Town 37 89 2/1750 Farm 66 15 2/1900 House 30 13 3",
+	"marriage_Thu": "930 BusStop 14 23 1/1000 Town 37 89 2/1750 Farm 66 15 2/1900 House 30 13 3",
+	"marriage_Fri": "930 BusStop 14 23 1/1000 Town 37 89 2/1750 Farm 66 15 2/1900 House 30 13 3",
+	"marriage_Sat": "930 BusStop 14 23 1/1000 Town 37 89 2/1750 Farm 66 15 2/1900 House 30 13 3",
+	"marriage_Sun": "930 BusStop 14 23 1/1000 Town 37 89 2/1750 Farm 66 15 2/1900 House 30 13 3",
+}

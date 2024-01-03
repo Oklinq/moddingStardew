@@ -1,0 +1,2 @@
+/speech Lewis 0We sent a craftsman to fix your fences$h
+/fencedecay 0

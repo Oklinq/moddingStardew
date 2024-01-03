@@ -1,0 +1,68 @@
+{
+  "Format": "1.19.0",
+  "Changes": [
+    {
+      "LogName": "NPC Manifestation",
+      "Action": "EditData",
+      "Target": "Data/NPCDispositions",
+      "FromFile": null,
+      "Entries": {
+        "Deku": "adult/polite/shy/positive/male/datable/null/Other/summer 15/Harvey'brother'/BusStop 23 9 1/Deku"
+      }
+    },
+    {
+      "LogName": "NPC Gift Tastes",
+      "Action": "EditData",
+      "Target": "Data/NPCGiftTastes",
+      "FromFile": null,
+      "Entries": {
+        "Deku": ":O Thank you really much!$4/-2/Thank you :D$1/-7/Oh ähmm. Thanks.$2/-81/Are you serious?$5/-20/Thx$3/50 "
+      }
+    },
+    {
+      "LogName": "NPC Sprite",
+      "Action": "Load",
+      "Target": "Characters/Deku",
+      "FromFile": "assets/img/spritesheet.png",
+      "Entries": null
+    },
+    {
+      "LogName": "NPC Portrait",
+      "Action": "Load",
+      "Target": "Portraits/Deku",
+      "FromFile": "assets/img/portrait.png",
+      "Entries": null
+    },
+    {
+      "LogName": "Schedule",
+      "Action": "Load",
+      "Target": "Characters/schedules/Deku",
+      "FromFile": "assets/schedules/Schedule.json",
+      "Entries": null
+    },
+    {
+      "LogName": "Dialogue",
+      "Action": "Load",
+      "Target": "Characters/Dialogue/Deku",
+      "FromFile": "assets/dialogue/Dialogue.json",
+      "Entries": null
+    },
+    {
+      "LogName": "Engagement Dialogue",
+      "Action": "EditData",
+      "Target": "Data/EngagementDialogue",
+      "FromFile": null,
+      "Entries": {
+        "Deku0": "I am so happy!$1",
+        "Deku1": "I'm so nervous for tomorrow.$4"
+      }
+    },
+    {
+      "LogName": "Marriage Dialogue",
+      "Action": "Load",
+      "Target": "Characters/Dialogue/MarriageDialogueDeku",
+      "FromFile": "assets/dialogue/MarriageDialogue.json",
+      "Entries": null
+    }
+  ]
+}

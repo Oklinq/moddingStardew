@@ -1,0 +1,54 @@
+/speech Lewis 0...Goodbye @$s
+/ci
+/clearchildren
+/house 0
+/divorce
+/friend Alex 0
+/friend Elliot 0
+/friend Harvey 0
+/friend Sam 0
+/friend Sebastian 0
+/friend Shane 0
+/friend Abigail 0
+/friend Emily 0
+/friend Haley 0
+/friend Leah 0
+/friend Caroline 0
+/friend Clint 0
+/friend Penny 0
+/friend Demetrius 0
+/friend Dwarf 0
+/friend Evelyn 0
+/friend George 0
+/friend George 0
+/friend Gus 0
+/friend Jas 0
+/friend Jodi 0
+/friend Kent 0
+/friend Krobus 0
+/friend Lewis 0
+/friend Linus 0
+/friend Marnie 0
+/friend Pam 0
+/friend Pierre 0
+/friend Robin 0
+/friend Sandy 0
+/friend Vincent 0
+/friend Willy 0
+/friend Wizard 0
+/friend Sophia 0
+/friend Victor 0
+/friend Olivia 0
+/friend Maru 0
+/friend Scarlett 0
+/friend Morgan 0
+/friend Apples 0
+/friend Isaac 0
+/friend Alesia 0
+/friend Camilla 0
+/friend Susan 0
+/friend Claire 0
+/friend Andy 0
+/friend Marlon 0
+/friend Morris 0
+/die

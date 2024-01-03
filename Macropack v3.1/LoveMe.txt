@@ -1,0 +1,37 @@
+/friend Alex 2500
+/friend Elliott 2500
+/friend Harvey 2500
+/friend Sam 2500
+/friend Sebastian 2500
+/friend Shane 2500
+/friend Abigail 2500
+/friend Haley 2500
+/friend Leah 2500
+/friend Maru 2500
+/friend Penny 2500
+/friend Emily 2500
+/dating Alex
+/dating Elliott
+/dating Harvey
+/dating Sam
+/dating Sebastian
+/dating Shane
+/dating Abigail
+/dating Haley
+/dating Leah
+/dating Maru
+/dating Penny
+/dating Emily
+/friend Alex 2500
+/friend Elliott 2500
+/friend Harvey 2500
+/friend Sam 2500
+/friend Sebastian 2500
+/friend Shane 2500
+/friend Abigail 2500
+/friend Haley 2500
+/friend Leah 2500
+/friend Maru 2500
+/friend Penny 2500
+/friend Emily 2500
+/speech Lewis 0Everyone loves you now @!$h

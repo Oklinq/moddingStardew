@@ -1,0 +1,5 @@
+/ax
+/hoe
+/pick
+/pole 0
+/can

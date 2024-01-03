@@ -1,0 +1,102 @@
+{
+  "Format": "1.27.2",
+  "ConfigSchema": {
+        "bear-pig": {"AllowValues": "true, false",
+		"Default": "true"},
+		"polarbear-sheep": {"AllowValues": "true, false",
+		"Default": "true"},
+		"blackbear-horse": {"AllowValues": "true, false",
+		"Default": "true"},
+		"pandabear-cow": {"AllowValues": "true, false",
+		"Default": "true"},
+		},
+	
+  "Changes": [
+       {
+          "Action": "Load",
+			"Target": "Animals/Pig",
+			"FromFile": "assets/Bear/Bear.png",
+		  "When": {
+			"bear-pig": "true",
+		  }
+       },
+	   {
+	   	  "Action": "Load",
+          "Target": "Animals/BabyPig",
+          "FromFile": "assets/Bear/Bear_baby.png",
+		  		  "When": {
+			"bear-pig": "true",
+		  }
+	   },
+	   {
+		  "Action": "EditImage",
+		  "Target": "LooseSprites/Cursors",
+		  "FromFile": "assets/Bear/icon.png",	
+		  "ToArea": {"X": 8, "Y": 482, "Width": 17, "Height": 13},
+	   },
+		{
+		"Action": "Load",
+         	"Target": "Animals/ShearedSheep",
+         	"FromFile": "assets/Bear/Polarbear.png",
+		"When": {
+		  "polarbear-sheep": "true",
+		  }
+		},
+		{
+		"Action": "Load",
+         	"Target": "Animals/Sheep",
+         	"FromFile": "assets/Bear/Polarbear.png",
+		"When": {
+		  "polarbear-sheep": "true",
+		  }
+		},
+		{
+		"Action": "Load",
+         	"Target": "Animals/BabySheep",
+         	"FromFile": "assets/Bear/Polarbear_baby.png",
+		"When": {
+		  "polarbear-sheep": "true",
+		  }
+		},
+		{
+		"Action": "Load",
+         	"Target": "Animals/Horse",
+         	"FromFile": "assets/Bear/Blackbear.png",
+		"When": {
+		  "blackbear-horse": "true",
+		  }
+		},
+		{
+		"Action": "Load",
+         	"Target": "Animals/Brown Cow",
+         	"FromFile": "assets/Bear/Pandabear.png",
+		"When": {
+		  "pandabear-cow": "true",
+		  }
+		},
+		{
+		"Action": "Load",
+         	"Target": "Animals/White Cow",
+         	"FromFile": "assets/Bear/Pandabear.png",
+		"When": {
+		  "pandabear-cow": "true",
+		  }
+		},
+		{
+		"Action": "Load",
+         	"Target": "Animals/BabyBrown Cow",
+         	"FromFile": "assets/Bear/Pandabear_baby.png",
+		"When": {
+		  "pandabear-cow": "true",
+		  }
+		},
+		{
+		"Action": "Load",
+         	"Target": "Animals/BabyWhite Cow",
+         	"FromFile": "assets/Bear/Pandabear_baby.png",
+		"When": {
+		  "pandabear-cow": "true",
+		  }
+		},
+    ]
+}

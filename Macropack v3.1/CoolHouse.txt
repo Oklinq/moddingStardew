@@ -1,0 +1,5 @@
+/speech Robin 0Well @, your new house will be delivered tonight. We also added some catalogs to your inventory, so you can pick some furniture$h
+/ff 1226
+/ff 1308
+/houseupgrade 3
+/sleep

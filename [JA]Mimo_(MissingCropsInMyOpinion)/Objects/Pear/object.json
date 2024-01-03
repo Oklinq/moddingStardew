@@ -1,0 +1,36 @@
+{
+  "Name": "Pear",
+  "Description": "A simple Pear",
+  "Category": "Fruit",
+  "Edibility": 25,
+  "Price": 80,
+  "IsColored": false,
+  "Recipe": null,
+  "NameLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        "de": "Birne",
+        //"hu": "",
+        // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+        // "tr": "",
+        //"zh": "",
+    },
+    "DescriptionLocalization":
+    {
+        //"es": "",
+        //"ko": "",
+        "de": "Eine simple Birne",
+        //"fr": "",
+         // "hu": "",
+         // "it": "",
+        //"ja": "",
+        //"pt": "",
+        //"ru": "",
+         // "tr": "",
+        //"zh": "",
+    },
+}

@@ -1,0 +1,13 @@
+{
+  "Name": "Deku for Stardew valley 1.5",
+  "Author": "Oklinq",
+  "Description": "Deku for Stardew valley 1.5",
+  "Version": "1.3.0",
+  "UniqueID": "Oklinq.Deku",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "UpdateKeys": [
+    "Nexus: "
+  ]
+}

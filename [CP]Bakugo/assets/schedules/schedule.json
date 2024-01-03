@@ -1,0 +1,8 @@
+{
+  "spring": "610 Town 15 14 2/800 Town 29 27 3/1150 Saloon 34 18 0/1400 Blacksmith 9 13 2/1600 Beach 49 19 2/1820 Town 47 87 0/2000 Forest 33 25 2/2200 Beach 49 20 2",
+  "summer": "610 Railroad 11 57 2/800 Town 29 27 3/940 Town 47 87 0 \"Strings\\schedules\\Bakugo:summer.000\"/1100 Guild 8 11 2/1630 Beach 49 19 2/2000 Forest 33 25 2",
+  "fall": "610 Town 15 14 2/800 Town 29 27 3/1150 Saloon 34 18 0/1400 Blacksmith 9 13 2/1710 Town 47 87 0/1900 Forest 33 25 2/2120 Railroad 11 57 2",
+  "winter": "610 Railroad 11 57 2/1000 BathHouse_Pool 10 10 2/1400 Saloon 34 18 0/1900 Forest 33 25 2/2120 Railroad 11 57 2",
+  "rain": "610 Railroad 11 57 2/1000 BathHouse_Pool 10 10 2 \"Strings\\schedules\\Bakugo:rain.000\"/1700 Saloon 34 18 0",
+  "marriage": "610 Railroad 11 57 2/800 Town 15 14 2/930 Town 29 27 3/1030 Guild 8 11 2/1400 Beach 49 19 2/1700 Forest 33 25 2/2100 Saloon 34 18 0/2320 Farm 58 26 3"
+}

@@ -1,0 +1,12 @@
+{
+  "spouseRooms": [
+	{
+      "name": "Bakugo",
+	  "file": "SpouseRoomBakugo.tmx",
+    }
+	{
+      "name": "Deku",
+	  "file": "SpouseRoomBakugo.tmx",
+    }
+  ]
+}
