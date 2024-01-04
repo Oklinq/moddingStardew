@@ -1,5 +1,5 @@
 {
-  "Format": "1.27.2",
+  "Format": "1.30.4",
   "ConfigSchema": {
         "bear-pig": {"AllowValues": "true, false",
 		"Default": "true"},
@@ -10,7 +10,7 @@
 		"pandabear-cow": {"AllowValues": "true, false",
 		"Default": "true"},
 		},
-	
+
   "Changes": [
        {
           "Action": "Load",
@@ -31,7 +31,7 @@
 	   {
 		  "Action": "EditImage",
 		  "Target": "LooseSprites/Cursors",
-		  "FromFile": "assets/Bear/icon.png",	
+		  "FromFile": "assets/Bear/icon.png",
 		  "ToArea": {"X": 8, "Y": 482, "Width": 17, "Height": 13},
 	   },
 		{

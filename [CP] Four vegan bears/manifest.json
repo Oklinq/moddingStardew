@@ -2,12 +2,12 @@
    "Name": "Four vegan bears for Stardew valley 1.5",
    "Author": "Oklinq",
    "Description": "replace many animals an make them bears!",
-   "Version": "2.0.1",
-   "MinimumApiVersion": "3.15.1",
+   "Version": "2.0.2",
+   "MinimumApiVersion": "3.18.1",
    "UniqueID": "Oklinq.Bears",
     "ContentPackFor": {
     	"UniqueID": "Pathoschild.ContentPatcher",
-    	"MinimumVersion": "1.27.2"
+    	"MinimumVersion": "1.30.4"
 		},
    "UpdateKeys": [ "Nexus:7389" ],
 }
