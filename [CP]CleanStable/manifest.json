@@ -2,12 +2,12 @@
    "Name": "Clean Stable",
    "Author": "Oklinq",
    "Description": "by Oklinq",
-   "Version": "1.0.1",
-   "MinimumApiVersion": "3.15.1",
+   "Version": "1.0.2",
+   "MinimumApiVersion": "3.18.1",
    "UniqueID": "Oklinq.CleanStable",
     "ContentPackFor": {
     	"UniqueID": "Pathoschild.ContentPatcher",
-    	"MinimumVersion": "1.27.2"
+    	"MinimumVersion": "1.30.4"
 		},
    "UpdateKeys": [ "Nexus:7397" ],
 }
